@@ -1,0 +1,25 @@
+*.iml
+
+# Gradle
+.gradle/
+build/
+app/build/
+
+# Local configuration / secrets
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+
+# Android build/native files
+captures/
+.externalNativeBuild/
+.cxx/
+
+# OS files
+.DS_Store
+
+# Signing keys
+*.jks
+*.keystore
